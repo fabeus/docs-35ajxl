@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-qapb2b.date-me.pro/sitemap.xml
